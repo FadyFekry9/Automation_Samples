@@ -108,7 +108,7 @@ namespace Automation_Samples
 
 
             try
-            {
+            { 
                 CRMLogin(Properties.Settings.Default.DMCACRMAdminUsername, Properties.Settings.Default.DMCACRMAdminPassword);
                 Driver.Navigate().GoToUrl(Settings.Default.DMCACRMURL);
                 xrmBrowser.Driver.Navigate().GoToUrl(Settings.Default.DMCACRMURL);

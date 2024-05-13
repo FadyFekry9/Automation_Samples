@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.Dynamics365.UIAutomation.Api", "Microsoft.Dynamics365.UIAutomation.Api\Microsoft.Dynamics365.UIAutomation.Api.csproj", "{DFE2C141-F1AA-4D4B-8DF8-0FB93023CF45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.Dynamics365.UIAutomation.Browser", "Microsoft.Dynamics365.UIAutomation.Browser\Microsoft.Dynamics365.UIAutomation.Browser.csproj", "{C9748803-F3CB-4531-B313-BC24D4D0BF0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.Dynamics365.UIAutomation.Api.UCI", "Microsoft.Dynamics365.UIAutomation.Api.UCI\Microsoft.Dynamics365.UIAutomation.Api.UCI.csproj", "{AFCB5BB5-4512-4019-A911-5D56CFF4F3D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Automation Samples", "Automation Samples\Automation Samples.csproj", "{460E0568-FA12-4409-B764-350CDE569FB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		UnitTest|Any CPU = UnitTest|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFE2C141-F1AA-4D4B-8DF8-0FB93023CF45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFE2C141-F1AA-4D4B-8DF8-0FB93023CF45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFE2C141-F1AA-4D4B-8DF8-0FB93023CF45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFE2C141-F1AA-4D4B-8DF8-0FB93023CF45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFE2C141-F1AA-4D4B-8DF8-0FB93023CF45}.UnitTest|Any CPU.ActiveCfg = Release|Any CPU
+		{DFE2C141-F1AA-4D4B-8DF8-0FB93023CF45}.UnitTest|Any CPU.Build.0 = Release|Any CPU
+		{C9748803-F3CB-4531-B313-BC24D4D0BF0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9748803-F3CB-4531-B313-BC24D4D0BF0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9748803-F3CB-4531-B313-BC24D4D0BF0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9748803-F3CB-4531-B313-BC24D4D0BF0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9748803-F3CB-4531-B313-BC24D4D0BF0C}.UnitTest|Any CPU.ActiveCfg = Release|Any CPU
+		{C9748803-F3CB-4531-B313-BC24D4D0BF0C}.UnitTest|Any CPU.Build.0 = Release|Any CPU
+		{AFCB5BB5-4512-4019-A911-5D56CFF4F3D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFCB5BB5-4512-4019-A911-5D56CFF4F3D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFCB5BB5-4512-4019-A911-5D56CFF4F3D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFCB5BB5-4512-4019-A911-5D56CFF4F3D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFCB5BB5-4512-4019-A911-5D56CFF4F3D0}.UnitTest|Any CPU.ActiveCfg = Release|Any CPU
+		{AFCB5BB5-4512-4019-A911-5D56CFF4F3D0}.UnitTest|Any CPU.Build.0 = Release|Any CPU
+		{460E0568-FA12-4409-B764-350CDE569FB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{460E0568-FA12-4409-B764-350CDE569FB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{460E0568-FA12-4409-B764-350CDE569FB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{460E0568-FA12-4409-B764-350CDE569FB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{460E0568-FA12-4409-B764-350CDE569FB6}.UnitTest|Any CPU.ActiveCfg = Debug|Any CPU
+		{460E0568-FA12-4409-B764-350CDE569FB6}.UnitTest|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {196649AD-9E46-48BA-A530-D46DDA987A57}
+	EndGlobalSection
+EndGlobal

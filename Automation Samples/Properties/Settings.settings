@@ -1,0 +1,165 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Automation_Samples.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Frontend_URL" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="timeToWaitInMinutes" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="Backend_URL" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Language" Type="Config.Languages" Scope="User">
+      <Value Profile="(Default)">en</Value>
+    </Setting>
+    <Setting Name="RunHeadless" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="FireExceptionOnBrowserConsoleErrors" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="SENDGRID_API_KEY" Type="System.String" Scope="User">
+      <Value Profile="(Default)">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</Value>
+    </Setting>
+    <Setting Name="FromMail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">linkdev.automationtest@gmail.com</Value>
+    </Setting>
+    <Setting Name="toMails" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;string&gt;fady.aziz@linkdev.com&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="IsNewDev" Type="System.String" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="IsTesting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CrewNewURL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">crew/new</Value>
+    </Setting>
+    <Setting Name="RunWithDynamics365Upgrade" Type="System.String" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CMAUsername" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Crm365dc.local\crmadmin</Value>
+    </Setting>
+    <Setting Name="CMAPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">linkP@ss</Value>
+    </Setting>
+    <Setting Name="CMAURLClassic" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://cmap2.linkdev.com/main.aspx#662006218</Value>
+    </Setting>
+    <Setting Name="DMCACRMSTGURL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://dmcastag.dmca.ae/main.aspx</Value>
+    </Setting>
+    <Setting Name="RALUsername" Type="System.String" Scope="User">
+      <Value Profile="(Default)">GROUP\Dma.test02</Value>
+    </Setting>
+    <Setting Name="CorporateEmployer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">*Automation</Value>
+    </Setting>
+    <Setting Name="CrewSubCategory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Pleasure Marine Craft Driving License-Skipper-Craft length up to (24) meters</Value>
+    </Setting>
+    <Setting Name="InspectorUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">group\dma.test26</Value>
+    </Setting>
+    <Setting Name="InspectorPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">P@s$w1rd2</Value>
+    </Setting>
+    <Setting Name="MCITCRMURL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://mcitqc.linkdev.com</Value>
+    </Setting>
+    <Setting Name="MCITAdminUsername" Type="System.String" Scope="User">
+      <Value Profile="(Default)">mbsdc\crmadmin</Value>
+    </Setting>
+    <Setting Name="MCITAdminPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">linkP@ss</Value>
+    </Setting>
+    <Setting Name="MCITTechEmp1Username" Type="System.String" Scope="User">
+      <Value Profile="(Default)">MBSDC\TechEmployee1</Value>
+    </Setting>
+    <Setting Name="MCITTechEmp1Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">linkP@ss</Value>
+    </Setting>
+    <Setting Name="IsStaging" Type="System.String" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="IsPre" Type="System.String" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="DMCAPortalURL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://eservicesuat.dmca.ae/en/</Value>
+    </Setting>
+    <Setting Name="DMCAPortalUserCor_Username" Type="System.String" Scope="User">
+      <Value Profile="(Default)">corfadypre</Value>
+    </Setting>
+    <Setting Name="DMCAPortalUserCor_Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">P@ssw0rdP</Value>
+    </Setting>
+    <Setting Name="DMCAPortalUserInd_Username" Type="System.String" Scope="User">
+      <Value Profile="(Default)">indfadypre</Value>
+    </Setting>
+    <Setting Name="DMCAPortalUserInd_Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">P@ssw0rdP</Value>
+    </Setting>
+    <Setting Name="DMCACRMURL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://dmcauat.dmca.ae</Value>
+    </Setting>
+    <Setting Name="DMCACRMAdminUsername" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DMCA.pcfc.ae\Svc-UCRMADMIN</Value>
+    </Setting>
+    <Setting Name="DMCACRMAdminPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">P@ss4C6mu01</Value>
+    </Setting>
+    <Setting Name="RALPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">P@s$w1rd2</Value>
+    </Setting>
+    <Setting Name="portal_user_indv" Type="System.String" Scope="User">
+      <Value Profile="(Default)">indfadypre</Value>
+    </Setting>
+    <Setting Name="CrewCategory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Pleasure</Value>
+    </Setting>
+    <Setting Name="portal_user_comp" Type="System.String" Scope="User">
+      <Value Profile="(Default)">corfadypre</Value>
+    </Setting>
+    <Setting Name="VesselLogURL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">VesselLogBook/apply</Value>
+    </Setting>
+    <Setting Name="AppStatusSettings" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="AppNumberSettings" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="PlateNumberSettings" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DepartureDate" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2 / 20 / 2026</Value>
+    </Setting>
+    <Setting Name="DepartureTime" Type="System.String" Scope="User">
+      <Value Profile="(Default)">8:45 PM</Value>
+    </Setting>
+    <Setting Name="ArrivalDate" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2 / 20 / 2026</Value>
+    </Setting>
+    <Setting Name="ArrivalTime" Type="System.String" Scope="User">
+      <Value Profile="(Default)">8:46 PM</Value>
+    </Setting>
+    <Setting Name="MainStatus" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="subsubstatus" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SubStatus" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
